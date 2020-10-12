@@ -50,5 +50,3 @@ We plan to implement 3D printing to our product line in order to save our planet
 **Project Presentation** [link](https://docs.google.com/presentation/d/1FkwvDDGhZbfOlCbpnERHrNHRuzR5A5sKspa9lTc1LHc/edit?usp=sharing).
 
 **Video Demo** [link](https://youtu.be/ir2ejqI_45M).
-
-![IMG-20201011-WA0084__01.jpg](https://user-images.githubusercontent.com/53579386/95717822-2b37d980-0c8b-11eb-9671-d0ede1b2cfa8.jpg)
